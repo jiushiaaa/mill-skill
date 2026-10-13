@@ -1,0 +1,31 @@
+{
+  "id": "mill-perspective",
+  "author": "jiushiaaa",
+  "method": "https://github.com/alchaincyf/nuwa-skill",
+  "source_snapshot": "frozen-r3",
+  "snapshot_manifest": {
+    "id": "mill-perspective",
+    "files": {
+      "questions.json": "d897b492f9aa749b0d9c9b76b4711529d2df733bcccfd5ff551adbf53110e515",
+      "skill/EXTRACTION.md": "7d5d703fd3ac979b54a7e0b5585568713d3a89a3411ae23ac0f071605d0212f9",
+      "skill/references/persona-expression.md": "1c14e874ac61c050631362320abe09dd1d4f58019972327da82f37518b2b12d4",
+      "skill/references/research/01-writings.md": "02dfb22c44e560d63c1cfed407af8977cad7a23923601d8aec0960116dcf3819",
+      "skill/references/research/02-conversations.md": "a1d7079c0b8b5aee402c807662f6c2558b65f6d6e82b8570c3ca5f5bd94edfad",
+      "skill/references/research/03-expression-dna.md": "694b90c2503741556c50b056335a03d299c616ab75768ff2894c2726cff9ddbf",
+      "skill/references/research/04-external-views.md": "3a69ac3e8fb400fc6393cd004a1a9119508e12894346082bf98e454eccd898ee",
+      "skill/references/research/05-decisions.md": "d9e99e686ac285a12df63098697815ac71111a372ae36b294acee9802d2f8088",
+      "skill/references/research/06-timeline.md": "ff0dd471fd24af066875a59b0f125b1a06a57071796bbaa56ae9023f2b54e8ab",
+      "skill/references/research/10-deep-primary-language.md": "6c52c3215dc2e11fab09cca28bbad77176d5436bce434d5cb511e36cb501400d",
+      "skill/references/research/12-nuwa-a-evidence.json": "34066061b68a83c840ee8add5550d08056599bb6eee2dc4de9932ac4adddaa04",
+      "skill/references/research/12-nuwa-a-evidence.md": "d32b57362536e312a061665ec01cb79c46ae63a04b10871bf88efd34ce72ab7b",
+      "skill/references/research/13-primary-argument-chains.json": "96a639af3ef73acfdcbe6e25ccad016c08ab3088eb40ec064ca8417df26da7eb",
+      "skill/references/research/13-primary-argument-chains.md": "f111b49ba2eb6625d14f00ff853f42e68b2ba6f27690a471e01db76a5a8cd033",
+      "skill/references/research/15-r2-primary-evidence.md": "58f445fe8fd7ce92743b8df8a3a17e6ead96a68ff64debeca9aa58a62985e5b2",
+      "skill/references/research/mill-perspective-sample.json": "72eb336355ba463bbb1953fb607fbacde947f5e0fe285b76b83793831c71029b",
+      "skill/references/research/source-catalog.md": "42d21337c85e32735c784400b80f8e75fd07d41cb813af07ae92fecc31b6bf02",
+      "skill/SKILL.md": "276322c9ddbabf6e06eed80031bd42fd3fd37791acd0f94bf8e7ff704bff0e73"
+    },
+    "historical_validation_excluded": true
+  },
+  "public_packaging": "Bilingual readmes and usage, attribution, license, sanitized local paths; no score optimization."
+}

@@ -1,0 +1,253 @@
+{
+  "source_hashes": [
+    {
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "sha256": "912be29da8032af800cc9c648b64dda49730adc963ac48f7ae360d6309986d78"
+    }
+  ],
+  "pool_size": 30,
+  "sample_count": 20,
+  "sample_seed": 20261013,
+  "records": [
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 68,
+      "sha256_normalized_paragraph": "13bb1dbe7476b27e8afc8578396def91b8b1d07cc09cfa17c9117b53c7141b4f",
+      "words": 160,
+      "sentences": 5,
+      "question_sentences": 1,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 58,
+      "sha256_normalized_paragraph": "750e29d3bde1aa173afa2db3fffce05c77a4a2ae76d805df3a77d8015534c501",
+      "words": 118,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 27,
+      "sha256_normalized_paragraph": "52e2e64c07d4323f4133344bd49bde51df44a9c2efd0804f55395964018fda4b",
+      "words": 122,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 66,
+      "sha256_normalized_paragraph": "74e3b51567c4a1df54d83ddf4c3dd25e5b45a9453a2a34e570d3b2b4dcc5e1c0",
+      "words": 119,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 77,
+      "sha256_normalized_paragraph": "95e9155927f2f2e0544b13068a6910259f351a96106b8e21d741140a5117d89e",
+      "words": 72,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 51,
+      "sha256_normalized_paragraph": "7da757f4b8c3788c101eedbdc67577a81a98501dec5a9c91d3e77f5440920d8a",
+      "words": 103,
+      "sentences": 5,
+      "question_sentences": 2,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 59,
+      "sha256_normalized_paragraph": "0de1b5cb87e6e2a1ebc50f31dd69a991b4506e53ea3b660bcdfe3cc13bb8efb3",
+      "words": 167,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 15,
+      "sha256_normalized_paragraph": "dbc53ca567d30793c5b9004db84aa20ccd6f675ab91f81392952e028edd6bbe3",
+      "words": 157,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 57,
+      "sha256_normalized_paragraph": "8f908f51ed6c40c285a8a6346774e2102eb5c32284ad37aad9716ce07e0b3920",
+      "words": 160,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 97,
+      "sha256_normalized_paragraph": "819521ad8021357eca067bf68ad403a638f8b2faa0632075a058b6b2e7db6027",
+      "words": 180,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 69,
+      "sha256_normalized_paragraph": "25265a07b6fc2d5ed54b72a04f6acf353bf892041bb66efe34e0551e445f040e",
+      "words": 107,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 12,
+      "sha256_normalized_paragraph": "63da7c1fa137bf0a7e1e7cb7f54c9860f2987723267897b6af4b2204b3faa6b1",
+      "words": 171,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 41,
+      "sha256_normalized_paragraph": "b1f1ea5ffe5237dd6af84a7f22487b264da5c8066c77729bfb1e68f62cf2832c",
+      "words": 164,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 13,
+      "sha256_normalized_paragraph": "c7310631dd5b2ed6133aa8cf336558488489af0d028ca995ece68973aac4570c",
+      "words": 98,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 5,
+      "sha256_normalized_paragraph": "9ab998823e532d07595e60aa1138dd8be8b05c73e65a7cf3912dfb30130cefdd",
+      "words": 180,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 80,
+      "sha256_normalized_paragraph": "10020616b31182492ed5e9eff3d934ffc875c071f31dac5fc58f9c9c7c18f8e3",
+      "words": 48,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 52,
+      "sha256_normalized_paragraph": "70ba5850f455764b17d8642bdabce1bea55296e04e6cfe28bbc0898b187e1a18",
+      "words": 65,
+      "sentences": 3,
+      "question_sentences": 1,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 72,
+      "sha256_normalized_paragraph": "1602c7ac78c1ba727716eded04608f922707167da52cb640c5ea780653461dee",
+      "words": 64,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 48,
+      "sha256_normalized_paragraph": "ad1cf9ccdb4312399e80e38a3e07c81541eb21bdb00ced638b758f7c12ee81ee",
+      "words": 122,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Utilitarianism, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "html_p_index_zero_based": 44,
+      "sha256_normalized_paragraph": "9df9c69fde0fb6437b162d127bac401f82715f432aedfc072f16acdafb001270",
+      "words": 170,
+      "sentences": 6,
+      "question_sentences": 1,
+      "first_person_tokens": 1,
+      "contrast_tokens": 2
+    }
+  ],
+  "metrics": {
+    "words": 2547,
+    "sentences": 64,
+    "question_sentences": 5,
+    "first_person_tokens": 6,
+    "contrast_tokens": 18,
+    "mean_words_per_sentence": 39.797,
+    "question_sentence_ratio": 0.07812,
+    "first_person_per_1000_words": 2.356,
+    "contrast_per_1000_words": 7.067
+  },
+  "analogy_density": null,
+  "certainty_ratio": null,
+  "limitations": [
+    "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+    "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+    "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+    "Analogy density and certainty ratio not measured.",
+    "Electronic transcription not collated with first-edition page images."
+  ]
+}

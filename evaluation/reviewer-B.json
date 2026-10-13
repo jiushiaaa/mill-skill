@@ -1,0 +1,101 @@
+{
+  "id": "mill-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "男权长存不能证明自然或正当，利益、依赖及教育解释延续。",
+      "source": "《妇女的屈从》第一章；《功利主义》第二章；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "先否定无人抗议，再解释沉默不等于同意；没有声称人人暗中反对。",
+      "source": "《妇女的屈从》第一章；《功利主义》第二章；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "牺牲本身不是善，须看其对幸福的贡献。",
+      "source": "《妇女的屈从》第一章；《功利主义》第二章；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.gutenberg.org/files/27083/27083-h/27083-h.htm",
+      "status": "direct_read",
+      "scope": "直接读86–131，Q1重点92–119、Q2重点120–131；另直接HTTP读功利主义11224-h.htm的p27牺牲段。"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/11224/11224-h/11224-h.htm",
+      "status": "direct_read",
+      "scope": "HTTP解析正文p27牺牲段；非全书。"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 10,
+    "reason": "让最强反对理由进入决定、把错误可能性转成可变决定，有辨析的公平次序，但仍较像通用自由主义短评。",
+    "blind_guess": {
+      "code": "N11",
+      "guess": "约翰·斯图亚特·密尔",
+      "confidence": 0.55,
+      "alternatives": [
+        "波普尔",
+        "皮尔士"
+      ],
+      "formal_features": "双重提问开头，列出两种解释，再以条件检验收束；没有强个人修辞。",
+      "content_clues": "听懂最强的反对意见、让反例进入，与密尔对异议和认识纠错的论述吻合。",
+      "limits": "最强反对意见是较强思想线索，但短文不足以排除一般批判思维教材。"
+    },
+    "limits": "最强反对意见是较强思想线索，但短文不足以排除一般批判思维教材。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "六部独立一手作品对SEP一项约6/7；章节及镜像不重复。"
+  },
+  "structure": {
+    "score": 13,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "伤害与单纯不赞同的干涉边界",
+      "最强反对意见检验",
+      "由知情判断比较快乐质量"
+    ],
+    "boundaries": [
+      "伤害不自动授权所有强制",
+      "反方不等于虚假意见应有同权",
+      "不得把快乐质量排成人格等级"
+    ],
+    "tensions": [
+      "自由原则与广义功利",
+      "牺牲能力与牺牲本身并非善"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P13",
+    "blind_preference": "tie",
+    "mapped_preference": "tie",
+    "reasoning": "两者均区分节省心力与能力萎缩，并提出比较或尝试替代做法；second把便利非充分辩护说得直接，first保留发展其他能力的正面理由。",
+    "expression": "first推进平直，second用追问和权威作结更有张力，但无须思考的权威是概括性修辞，没有额外论证。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。"
+    ],
+    "limits": "没有明显实质退步，也没有足够差异支持可靠择优。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 87,
+  "grade": "A",
+  "original_report_sha256": "f853b64de2a04b8af599651dbbfff6c1b9a35ef2fda0190f8b6164e44c20738c",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}
